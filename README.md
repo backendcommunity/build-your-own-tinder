@@ -21,12 +21,11 @@ You can use any tools you like to help you complete the project. So if you've go
 
 ## Objectives
 
-- Allow users to sign up, log in, and manage their accounts.
-- Enable users to browse, search, and filter books.
-- Facilitate the borrowing and returning of books.
-- Ensure efficient management of book reservations.
-- Provide robust features for viewing borrowing history and managing fines.
-- Enable administrators to manage books, users, and fines effectively.
+-  Allow users to create and customize dating proles with photos, bios, and preferences.
+-  Enable users to browse proles and swipe right or left to indicate interest.
+-  Facilitate communication between users through a built-in chat system after matching.
+-  Ensure user safety and privacy through verification and reporting mechanisms.
+-  Provide users with personalized match suggestions based on location, interests, and filters.
 
 Want some support on the project? [Join our community](https://masteringbackend.com/community) and ask questions in the **#project-builders** channel.
 
